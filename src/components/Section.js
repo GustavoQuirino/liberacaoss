@@ -38,7 +38,7 @@ const Section = () => {
     return (
         <div className="tela">
             <div className="janela">
-                <h1>CHAVE CLIENTE</h1>
+                <h1>CHAVE DO CLIENTE</h1>
                 <input type='tel' placeholder="00000" maxLength={5} onChange={getChave} onClick={limpa}/>
                 <button onClick={gerar}>GERAR</button>
                 <p>NUMERO DE LIBERACAO</p>

@@ -10,7 +10,7 @@ const Navbar = () => {
                     <p>Sistema Integrado</p>
                 </div>
             </div>
-            <h2>Liberacao do Sistema</h2>
+            <h2>Liberação do Sistema</h2>
         </nav>
     )
 }
